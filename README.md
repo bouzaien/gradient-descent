@@ -1,0 +1,2 @@
+In this notebook, I'll try to implement the gradient descent algorithm, test it with few predefined functions and visualize its behabiour in order to coclude with the importance of each parameter of the algorithm.
+At the end, I will apply the gradient descent algorithm to minimize the mean squared error funcion of the least squares method.
